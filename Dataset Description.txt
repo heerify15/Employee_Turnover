@@ -1,0 +1,35 @@
+Each row represents one employee and contains information about job
+
+         Feature                                                    Description
+
+1.   Job_Satisfaction------------------------------------Level of satisfaction with the job
+
+2.   Performance_Rating----------------------------------Employee performance score
+
+3.   Years_At_Company------------------------------------Number of years worked in company 
+
+4.   Work_Life_Balance-----------------------------------Balance between work and personal life
+
+5.   Distance_From_Home----------------------------------Distance of home from work place
+
+6.   Monthly_Income--------------------------------------Monthly salary
+
+7.   Education_Level-------------------------------------Education qualification level
+
+8.   Age-------------------------------------------------Age of employee
+
+9.   Num_Companies_Worked--------------------------------Number of companies worked previously
+
+10.  Employee_Role---------------------------------------Encoded job role
+
+11.  Annual_Bonus----------------------------------------Bonus received annually
+
+12.  Training_Hours--------------------------------------Training hours attended
+
+13.  Department------------------------------------------Encoded department
+
+14.  Annual_Bonus_Squared--------------------------------Engineered feature (bonus²)
+
+15.  Annual_Bonus_Training_Hours_Interaction-------------Interaction feature between annual bonus and training hours
+
+16.  Employee_Turnover(Target)---------------------------1 = Employee Left, 0 = Stayed
