@@ -45,6 +45,23 @@ The models were evaluated using the following metrics:
 
 ---
 
+## 📁 Project Structure
+
+Below is the layout of the repository and the naming conventions used for the Iris classification project:
+
+```text
+├── Dataset/
+│   ├── employee_turnover.csv
+│   └── dataset_description.txt
+├── Notebook/
+│   └── employee_turnover.ipynb        
+├── Output/
+│   ├── confusion_matrix.jpg     # Confusion Matrix
+└── README.md                             
+```
+
+---
+
 ## 🎯 Key Learnings
 
 * Understanding binary classification using Logistic Regression
